@@ -1,0 +1,5 @@
+hoon = input().split()
+a = int(hoon[0])
+b = int(hoon[1])
+c = int(hoon[2])
+print(a+b+c)
